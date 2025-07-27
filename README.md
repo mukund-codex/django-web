@@ -1,1 +1,1 @@
-# django-web
+# Website in Python + Django
